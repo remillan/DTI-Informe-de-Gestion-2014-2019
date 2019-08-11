@@ -13,7 +13,7 @@
         \vspace{1.5cm}
 
         \Large
-        Dirección de Tecnología Informática (DTI)
+        SAFIT CONSULTING
 
         \vspace{1.5cm}
 
